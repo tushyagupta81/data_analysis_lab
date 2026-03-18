@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=7.1.0",
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
+    "pyeclat>=1.0.2",
     "rich>=14.3.2",
     "seaborn>=0.13.2",
 ]
